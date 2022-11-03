@@ -1,5 +1,5 @@
 {
-"SendMessage":6,
+"SendMessage":7,
 "MyMessage":
-"Oi Gising Kana 😂"
+"Oi Putang Inamo Ka 😂"
 }
