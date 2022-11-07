@@ -1,5 +1,5 @@
 {
-"SendMessage":14,
+"SendMessage":15,
 "MyMessage":
-"Tangina Mo Oras Na 😆"
+"Hoi Gising Kana 😆"
 }
